@@ -8,20 +8,18 @@ This notebook was published in [What is XGBoost? And how to optimize it?](https:
 
 - Introduction
 - I - Hyperparameters Optimization
-    1 - Libraries
-    2 - Load Data
-    3 - Stopwords data
-    4 - Preparation train test
+    1. Libraries
+    2. Load Data
+    3. Stopwords data
+    4. Preparation train test
 - II - Hyperparameters
-    1 - RandomSearchCV
-    2 - GridSearchCV
+    1. RandomSearchCV
+    2. GridSearchCV
 - III - Best Model
     1. Train model with best parameters
     2. Save Model
     3. Load and test to compare metrics
 - VI - Feature importance (work in progress)
-    1. 
-    2.
 - Conclusion
 
 
